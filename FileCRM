@@ -6,6 +6,6 @@ public void acti()
 		WebElement checkBox = driver.findElement(By.id("keepLoggedInLabel"));
 	//	Assert.assertTrue(checkBox.isSelected());
 		Assert.assertFalse(checkBox.isSelected());
-		
+		System.out.println("Ashdwd");
 	
 	}
