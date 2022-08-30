@@ -7,5 +7,6 @@ public void acti()
 	//	Assert.assertTrue(checkBox.isSelected());
 		Assert.assertFalse(checkBox.isSelected());
 		System.out.println("Ashdwd");
+		System.out.println("abhi");
 	
 	}
